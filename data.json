@@ -1,8 +1,11 @@
 {
   "0": {
     "cost": 0,
-    "name": "Apeclo SR",
-    "price": "150"
+    "name": "Apeclo SR Apex",
+    "price": "150",
+    "buy_rate": 0,
+    "sell_price": 150,
+    "updatedAt": 1792002188369
   },
   "1": {
     "cost": 22,
