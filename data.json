@@ -2501,11 +2501,11 @@
     "updatedAt": 1791945386578
   },
   "-P3sgJY_2Yn7mxU9WGMs": {
-    "buy_rate": 0,
+    "buy_rate": 100,
     "createdAt": 1791952504140,
     "name": "Globe 35%",
-    "sell_price": 0,
-    "updatedAt": 1791952504140
+    "sell_price": 200,
+    "updatedAt": 1792002255207
   },
   "godown": {
     "-P2257SGumk38Nrsa-eD": {
